@@ -17,7 +17,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "kalebalebachew4@gmail.com.com"
+          git config --global user.name "kalebalebachew"
           git commit -am "Refresh README"
           git push
