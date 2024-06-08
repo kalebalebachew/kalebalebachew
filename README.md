@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalebalebachew&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalebalebachew&theme=apprentice)
+
 
