@@ -1,7 +1,7 @@
 
 ### Hello world 👋
 
-- Kaleb here! I'm currently working on Backend services using Laravel and ExpressJs.
+- Kaleb here! I'm currently working on Backend services using Laravel and ExpressJs and exploring the cloud world
 
 - Wanna 💬? You can find me on [LinkedIn](https://www.linkedin.com/in/kaleb-alebachew-8782a8252/), or email [Kalebalebachew](mailto:kalebalebachew4@gmail.com?subject=[GitHub]).
 
