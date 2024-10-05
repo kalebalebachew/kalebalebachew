@@ -1,10 +1,4 @@
 
-
-
-<!---
-kalebalebachew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Hello world 👋
 
 - Kaleb here! I'm currently working on Backend services using Laravel and ExpressJs.
@@ -28,9 +22,5 @@ You can click the Preview link to take a look at your changes.
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
   
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kalebalebachew&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalebalebachew&theme=apprentice) -->
 
 
